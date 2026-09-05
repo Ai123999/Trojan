@@ -1,10 +1,12 @@
-vless://49e15e17-5635-4e7a-b601-8c700bff14bc@217.16.27.113:443?allowInsecure=1&flow=xtls-rprx-vision&fp=firefox&pbk=AiG06E-jizo9xtBbulKQvdQqhZfobZJBTQIKkaDjaiU&security=reality&sid=a1b2c3d4e5&sni=max.ru&type=tcp#Notorgames_0
-trojan://humanity@185.75.243.102:443?security=tls&sni=www.ignitelimit.com&alpn=h3%2C+h2%2C+http%2F1.1&type=ws&host=www.ignitelimit.com&path=%2Fassignment&fragment=3%2C0-1%2Ctlshello%2Cnull&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%220-1%22%2C%22length%22%3A%223%22%2C%22packets%22%3A%22tlshello%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D&fp=chrome#178.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-trojan://humanity@185.75.243.102:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=%2Fassignment&fp=android#171.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-trojan://123444@104.17.122.10:2083?path=/?ed=2560&security=tls&host=northrendserver.sherekontop.workers.dev&fp=random&type=ws&sni=northrendserver.sherekontop.workers.dev#59.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-trojan://humanity@185.75.243.102:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=android#%F0%9F%87%AB%F0%9F%87%B7FR_1505%7C407KB%2Fs%7CM003-260806
-trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@104.21.70.21:443?sni=id1.nathaya.web.id&type=ws&path=%2Ftrojan&fp=unsafe#%F0%9F%87%AE%F0%9F%87%A9ID_2%7C475KB%2Fs%7CM003-260806
-trojan://19877587-ed94-4033-88cd-4ac50a5e8718@104.16.148.5:443?sni=dimskiee.biz.id&type=ws&path=%2FWangCai-8&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7FR_106%7C888KB%2Fs%7CC002-260622
-trojan://19877587-ed94-4033-88cd-4ac50a5e8718@104.18.153.182:443?sni=dimskiee.biz.id&type=ws&path=%2FWangCai-8&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7FR_1429%7C505KB%2Fs%7CM003-260806
-trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@104.21.70.21:443?path=%2Ftrojan&security=tls&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%225%22%2C%2294%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22109%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%22355%22%7D%7D%5D%7D&insecure=0&host=id1.nathaya.web.id&fp=unsafe&type=ws&allowInsecure=0&sni=id1.nathaya.web.id#274.%20%F0%9F%87%AE%F0%9F%87%A9%20Indonesia
-trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@104.21.70.21:443?path=/trojan&security=tls&fm={"tcp":[{"type":"fragment","settings":{"packets":"tlshello","lengths":["5","94","1"],"delays":["0"],"maxSplit":"0"}},{"type":"fragment","settings":{"packets":"1-1","lengths":["109","1"],"delays":["1"],"maxSplit":"355"}}]}&insecure=0&host=id1.nathaya.web.id&fp=unsafe&type=ws&allowInsecure=0&sni=id1.nathaya.web.id#5108.%20%F0%9F%87%AE%F0%9F%87%A9%20TROJAN%20%7C%20SNI%3A%20id1.nathaya.web.id%20%7C%20TG%3A%20%40wlrustg
+#announce: Обновлено: 2026-09-05 19:02:53
+#profile-web-page-url: https://github.com/Ai123999
+#profile-title: Trojan
+#support-url: https://t.me/Notorgames_0
+#profile-update-interval: 1
+
+
+trojan://fffad0cc-24dd-4398-a80f-949632a1f153@hk200m.jiasu.asia:50000?security=tls#%F0%9F%87%AD%F0%9F%87%B0%20LTE%20183%20%7C%20%D1%82%D0%B3%D0%BA%3A%20%40rostunnel
+trojan://8f8c79fe-02b8-4a46-8cb6-657f7b130a17@hk200m.jiasu.asia:50000?security=tls#%F0%9F%87%AD%F0%9F%87%B0%20LTE%20180%20%7C%20%D1%82%D0%B3%D0%BA%3A%20%40rostunnel
+trojan://acf856e5-d697-439d-9552-ce2c1c9bbdbb@hk200m.jiasu.asia:50000?security=tls#%F0%9F%87%AD%F0%9F%87%B0%20LTE%20182%20%7C%20%D1%82%D0%B3%D0%BA%3A%20%40rostunnel
+trojan://n9c6f0usjhj6kqbq@104.21.65.43:2087?alpn=h2&fp=chrome&host=uwu.dianaw.cc.cd&path=/@BlueKnight_net--@BlueKnight_net--@BlueKnight_net&security=tls&sni=uwu.dianaw.cc.cd&type=ws#%F0%9F%87%AD%F0%9F%87%BA%20%5BTR%5D%20%D0%92%D0%B5%D0%BD%D0%B3%D1%80%D0%B8%D1%8F%20%2317625%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
+trojan://sa1t0t6rz6zbjlcs@uwu.blueknightnet.qzz.io:2087?alpn=h2&fp=chrome&host=uwu.dianaw.cc.cd&path=%2F%40BlueKnight_net--%40BlueKnight_net--%40BlueKnight_net&security=tls&sni=uwu.dianaw.cc.cd&type=ws#%F0%9F%87%AE%F0%9F%87%A9%20%5BTR%5D%20%D0%98%D0%BD%D0%B4%D0%BE%D0%BD%D0%B5%D0%B7%D0%B8%D1%8F%20%232330%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
